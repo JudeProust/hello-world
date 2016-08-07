@@ -1,2 +1,2 @@
 # hello-world
-test repository, ignore it
+before I begin, I want to state I have no idea what I'm doing with my life. Thank you
